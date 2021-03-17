@@ -1,4 +1,2 @@
-com/helloworld/Bot.java
- com.helloworld.Bot
 com/helloworld/HelloWorldG.java
  com.helloworld.HelloWorldG
